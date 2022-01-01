@@ -1,0 +1,9 @@
+Course Code: CSE-2340
+Course Title: Software Development-I
+
+Project Name: Virtual Voice Assistant
+
+Team Member Detail:
+_Lamisa Mashiat-C201249_
+_Sohana Tasneem-C201249_
+_Sadia Hoque Chowdhury-C201270_
